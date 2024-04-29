@@ -1,7 +1,7 @@
 body{background-color: cyan;
-font-size: 16px;
+font-size: 14px;
  }
- caption{ font-size: 16px ;
+ caption{ font-size: 14px ;
     background-color: black;
     color: white;
     font-weight: bold;
@@ -13,10 +13,10 @@ font-size: 16px;
 
  }
  input, textarea, select {font-size: 16px;
-    background-color: blue;
+    background-color: green;
     color: black;
  }
  input:focus,textarea :focus {background-color : #FFFF99;
-       font-size : 40px;
-       color : Red;            
+       font-size : 20px;
+       color : Yellow;            
  }
