@@ -39,10 +39,10 @@ CREATE TABLE `aeroport` (
 --
 
 CREATE TABLE `avion` (
-  `numeroa` varchar(50) NOT NULL,
-  `constructeur` varchar(50) NOT NULL,
-  `modele` varchar(50) NOT NULL,
-  `nomC` varchar(50) NOT NULL
+  `numeroa` varchar(100) NOT NULL,
+  `constructeur` varchar(100) NOT NULL,
+  `modele` varchar(100) NOT NULL,
+  `nomC` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
 -- --------------------------------------------------------
