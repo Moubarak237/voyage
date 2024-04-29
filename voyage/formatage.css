@@ -1,0 +1,22 @@
+body{background-color: cyan;
+font-size: 18px;
+ }
+ caption{ font-size: 18px ;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+ }
+ table {font-size: 18px;
+    background-color: #CCFFFF;
+
+ }
+ input, textarea, select {font-size: 18px;
+    background-color: white;
+    color: black;
+ }
+ input:focus,textarea :focus {background-color : #FFFF99;
+       font-size : 30px;
+       color : blue;            
+ }
